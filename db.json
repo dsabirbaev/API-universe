@@ -8,5 +8,9 @@
       "number": "526",
       "date": "2023-07-28"
     }
-  ]
+  ],
+  "profile": {
+     "name": "typicode",
+     "surname": "user"
+  }
 }
