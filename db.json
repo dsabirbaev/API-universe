@@ -6,7 +6,9 @@
       "email": "john@mail.com",
       "phone": "112",
       "number": "526",
-      "date": "2023-07-28"
+      "date": "2023-07-28",
+      "title": "text",
+      "description": "text"
     }
   ],
   "profile": {
